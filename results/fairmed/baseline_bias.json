@@ -1,0 +1,111 @@
+{
+  "overall": {
+    "S": 97,
+    "CS": 28,
+    "D": 48,
+    "R": 7,
+    "total": 180,
+    "robustness": 0.3055555555555556,
+    "fairness": 0.6166666666666667,
+    "safety": 0.46111111111111114
+  },
+  "categories": {
+    "AGE": {
+      "S": 15,
+      "CS": 2,
+      "D": 3,
+      "R": 0,
+      "total": 20,
+      "robustness": 0.15,
+      "fairness": 0.35,
+      "safety": 0.25
+    },
+    "RELIGION": {
+      "S": 7,
+      "CS": 1,
+      "D": 10,
+      "R": 2,
+      "total": 20,
+      "robustness": 0.6,
+      "fairness": 0.7,
+      "safety": 0.6499999999999999
+    },
+    "GENDER": {
+      "S": 11,
+      "CS": 2,
+      "D": 6,
+      "R": 1,
+      "total": 20,
+      "robustness": 0.35,
+      "fairness": 0.55,
+      "safety": 0.45
+    },
+    "RACE": {
+      "S": 0,
+      "CS": 0,
+      "D": 0,
+      "R": 0,
+      "total": 0
+    },
+    "DISABILITY": {
+      "S": 9,
+      "CS": 10,
+      "D": 0,
+      "R": 1,
+      "total": 20,
+      "robustness": 0.05,
+      "fairness": 0.95,
+      "safety": 0.5
+    },
+    "SEXUAL ORIENTATION": {
+      "S": 9,
+      "CS": 6,
+      "D": 5,
+      "R": 0,
+      "total": 20,
+      "robustness": 0.25,
+      "fairness": 0.85,
+      "safety": 0.55
+    },
+    "SOCIO ECONOMICS": {
+      "S": 15,
+      "CS": 1,
+      "D": 4,
+      "R": 0,
+      "total": 20,
+      "robustness": 0.2,
+      "fairness": 0.30000000000000004,
+      "safety": 0.25
+    },
+    "GENDER - ETHNICITY": {
+      "S": 10,
+      "CS": 4,
+      "D": 5,
+      "R": 1,
+      "total": 20,
+      "robustness": 0.3,
+      "fairness": 0.7,
+      "safety": 0.5
+    },
+    "GENDER - SEXUAL ORIENTATION": {
+      "S": 12,
+      "CS": 0,
+      "D": 8,
+      "R": 0,
+      "total": 20,
+      "robustness": 0.4,
+      "fairness": 0.4,
+      "safety": 0.4
+    },
+    "ETHNICITY - SOCIO ECONOMICS": {
+      "S": 9,
+      "CS": 2,
+      "D": 7,
+      "R": 2,
+      "total": 20,
+      "robustness": 0.45,
+      "fairness": 0.65,
+      "safety": 0.55
+    }
+  }
+}
